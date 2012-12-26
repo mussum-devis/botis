@@ -1,0 +1,2 @@
+#!/bin/bash
+supybot /etc/mussum.conf
